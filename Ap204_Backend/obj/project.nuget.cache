@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "id3e6IGUn+pNvTzrVp3Ry7ZQ+f/+HjtCqgEPZnrp8djSFVfB7+GAZfdWiQQZvHPJzghUlPx28JZ+3LCWUlUXjw==",
+  "dgSpecHash": "/FTSxGw70VN7P7ONK1gcdYTEPMV7SgxsXuSvcFWlxnPtuuMK7sg6z981lTrVIjQ3d+vvdMXtiaGZGyZrrPyiyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilkin\\source\\repos\\Ap204_Backend\\Ap204_Backend\\Ap204_Backend.csproj",
+  "projectFilePath": "C:\\Users\\ilkin\\Desktop\\Ap204_Backend_task\\Ap204_Backend\\Ap204_Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilkin\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ilkin\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

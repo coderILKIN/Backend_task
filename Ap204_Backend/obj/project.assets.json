@@ -6074,11 +6074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilkin\\source\\repos\\Ap204_Backend\\Ap204_Backend\\Ap204_Backend.csproj",
+      "projectUniqueName": "C:\\Users\\ilkin\\Desktop\\Ap204_Backend_task\\Ap204_Backend\\Ap204_Backend.csproj",
       "projectName": "Ap204_Backend",
-      "projectPath": "C:\\Users\\ilkin\\source\\repos\\Ap204_Backend\\Ap204_Backend\\Ap204_Backend.csproj",
+      "projectPath": "C:\\Users\\ilkin\\Desktop\\Ap204_Backend_task\\Ap204_Backend\\Ap204_Backend.csproj",
       "packagesPath": "C:\\Users\\ilkin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilkin\\source\\repos\\Ap204_Backend\\Ap204_Backend\\obj\\",
+      "outputPath": "C:\\Users\\ilkin\\Desktop\\Ap204_Backend_task\\Ap204_Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilkin\\AppData\\Roaming\\NuGet\\NuGet.Config",
